@@ -1,6 +1,11 @@
 # Universidad Tecnológica del Norte de Guanajuato
-# Creación de viodejuegos
+
+# Creación de videojuegos
+
 ## Oscar Iván Pérez Mejía
+
+### U2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS
+Repositorio donde se contienen los trabajos realizados en clase de Creación de Videojuegos 2024.
 
 ## **Desafios**
 
@@ -22,4 +27,8 @@ Resultado
 
 Link del proyecto
 
-https://drive.google.com/drive/folders/1CdsnUxcILEBexoBafmN9qlpr7Eolu1tS?usp=sharing
+https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipo01.unitypackage
+
+Evidencia de autoria
+
+**Se omite para este primer desafio
