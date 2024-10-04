@@ -18,17 +18,15 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ### Resultados
 
-Resultado
-
 ![Movimiento camioneta](https://github.com/user-attachments/assets/51fb884a-4af9-45fd-b453-cc60d539c4b6)
 
 
 ![Script](https://github.com/user-attachments/assets/0910bcfe-9cdb-4836-b689-f32df803d9a6)
 
-Link del proyecto
+#### Link del proyecto
 
 https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipo01.unitypackage
 
-Evidencia de autoria
+#### Evidencia de autoria
 
 **Se omite para este primer desafio
