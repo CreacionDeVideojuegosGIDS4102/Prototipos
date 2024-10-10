@@ -26,7 +26,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 #### Link del proyecto
 
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipo01.unitypackage">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" style="width: 10px;" alt="PDF" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
 
@@ -46,13 +46,14 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 #### Link del proyecto
 
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/prototipo_2.unitypackage">
-   <img src="https://github.com/user-attachments/assets/dd9b91e5-c7e7-466c-a21e-11733399b85f" alt="GitHub" width="5"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
+
 
 
 
 #### Evidencia de autoria
 <a href="https://github.com/user-attachments/files/17335319/Prototipo2_Evidencias.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" style="width: 10px;" alt="PDF" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"  alt="PDF" width="30"/>
 </a>
 
