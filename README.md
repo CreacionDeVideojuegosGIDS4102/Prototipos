@@ -45,7 +45,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 
-<a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/prototipo_2.unitypackage)">
+<a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/prototipo_2.unitypackage">
    <img src="https://github.com/user-attachments/assets/dd9b91e5-c7e7-466c-a21e-11733399b85f" alt="GitHub" width="5"/>
 </a>
 
