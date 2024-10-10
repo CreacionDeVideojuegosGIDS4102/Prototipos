@@ -30,3 +30,21 @@ https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipo0
 #### Evidencia de autoria
 
 **Se omite para este primer desafio
+
+## 02: Prototipo-02.
+
+### Resultados
+
+![Cámara principal](https://github.com/user-attachments/assets/d25720d4-2562-42ad-8bc2-56d57ee38f69)
+
+![Código y juego](https://github.com/user-attachments/assets/0e381732-8ee5-49f8-a419-87d71683f51b)
+
+
+#### Link del proyecto
+
+https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipo01.unitypackage
+
+#### Evidencia de autoria
+<a href="https://github.com/user-attachments/files/17335319/Prototipo2_Evidencias.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
