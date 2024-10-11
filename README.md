@@ -11,7 +11,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ### **TABLA DE CONTENIDO**
 - [01: Prototipo-01.](#01-Prototipo-01)
-- [02: Prototipo-02.](#02-protipo02)
+- [02: Prototipo-02.](#02-protipo-2)
 
 
 ## 01: Prototipo-01.
