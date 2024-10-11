@@ -10,8 +10,8 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ## **Desafios**
 
 ### **TABLA DE CONTENIDO**
-- [01: Prototipo-01.](#01-Prototipo-01)
-- [02: Prototipo-02.](#02-protipo-2)
+- [01: Prototipo-01.](#01-prototipo-01)
+- [02: Prototipo-02.](#02-prototipo-02)
 
 
 ## 01: Prototipo-01.
@@ -34,7 +34,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 **Se omite para este primer desafio
 
-## 02: Prototipo-02.
+## 02: Prototipo-02
 
 ### Resultados
 
