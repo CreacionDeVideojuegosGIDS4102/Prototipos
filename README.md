@@ -1,8 +1,8 @@
 
 # 🎮 Creación de videojuegos 🎮
 
-## Oscar Iván Pérez Mejía ---
-
+## 🔮 Oscar Iván Pérez Mejía 🔮
+ 
 
 ### U2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS 👨🏾‍💻
 Repositorio donde se contienen los trabajos realizados en clase de Creación de Videojuegos 2024.
