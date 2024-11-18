@@ -31,13 +31,11 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipos_05.unitypackage">
-   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="70"/>
 </a>
 
 #### Evidencia de autoria
-<a href="https://github.com/user-attachments/files/17795941/Protipo05_OscarPerez.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
-</a>
+- Se omite evidencia debido a la falta de la misma porque el ejercicio fue realizado de manera diferente
 
 </div>
 
@@ -57,12 +55,12 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipos_05.unitypackage">
-   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="70"/>
 </a>
 
 #### Evidencia de autoria
 <a href="https://github.com/user-attachments/files/17795941/Protipo05_OscarPerez.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="70"/>
 </a>
 
 </div>
@@ -83,12 +81,12 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipos_03.unitypackage">
-   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="70"/>
 </a>
 
 #### Evidencia de autoria
 <a href="https://github.com/user-attachments/files/17795847/Prototipo3_OscarPerez.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="70"/>
 </a>
 
 
@@ -110,12 +108,12 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipos_04.unitypackage">
-   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="70"/>
 </a>
 
 #### Evidencia de autoria
 <a href="https://github.com/user-attachments/files/17795853/Protipo04_OscarPerez.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="70"/>
 </a>
 
 
@@ -137,12 +135,12 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 #### Link del proyecto
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/Prototipos_05.unitypackage">
-   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="70"/>
 </a>
 
 #### Evidencia de autoria
 <a href="https://github.com/user-attachments/files/17795941/Protipo05_OscarPerez.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="70"/>
 </a>
 
 </div>
