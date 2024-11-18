@@ -114,7 +114,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 #### Evidencia de autoria
-<a href="href="https://github.com/user-attachments/files/17795853/Protipo04_OscarPerez.pdf">
+<a href="https://github.com/user-attachments/files/17795853/Protipo04_OscarPerez.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
