@@ -35,7 +35,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 #### Evidencia de autoria
-- Se omite evidencia debido a la falta de la misma porque el ejercicio fue realizado de manera diferente
+- *Se omite evidencia debido a la falta de la misma porque el ejercicio fue realizado de manera diferente*
 
 </div>
 
