@@ -1,4 +1,3 @@
-# Universidad Tecnológica del Norte de Guanajuato
 
 # Creación de videojuegos
 
@@ -12,9 +11,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ### **TABLA DE CONTENIDO**
 - [01: Prototipo-01.](#01-prototipo-01)
 - [02: Prototipo-02.](#02-prototipo-02)
-- [03: Prototipo-03.](#02-prototipo-03)
-- [04: Prototipo-04.](#02-prototipo-04)
-- [05: Prototipo-05.](#02-prototipo-05)
+- [03: Prototipo-03.](#03-prototipo-03)
+- [04: Prototipo-04.](#04-prototipo-04)
+- [05: Prototipo-05.](#05-prototipo-05)
 
 
 ## 01: Prototipo-01.
@@ -61,9 +60,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ### Resultados
 
-![Cámara principal](https://github.com/user-attachments/assets/d25720d4-2562-42ad-8bc2-56d57ee38f69)
+![Cámara principal](https://github.com/user-attachments/assets/9b9bcfd4-acf3-4fd8-8662-51d147195994)
 
-![Código y juego](https://github.com/user-attachments/assets/0e381732-8ee5-49f8-a419-87d71683f51b)
+![Código y juego](https://github.com/user-attachments/assets/3ac628c8-e038-4837-a537-c7826c11eb0a)
 
 
 #### Link del proyecto
@@ -84,9 +83,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ### Resultados
 
-![Cámara principal](https://github.com/user-attachments/assets/d25720d4-2562-42ad-8bc2-56d57ee38f69)
+![Cámara principal](https://github.com/user-attachments/assets/16bc91c3-8fcf-49be-a96f-dde3d3b14824)
 
-![Código y juego](https://github.com/user-attachments/assets/0e381732-8ee5-49f8-a419-87d71683f51b)
+![Código y juego](https://github.com/user-attachments/assets/867066bd-a947-4a9e-b574-188785e694c8)
 
 
 #### Link del proyecto
@@ -96,7 +95,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 #### Evidencia de autoria
-<a href="https://github.com/user-attachments/files/17795853/Protipo04_OscarPerez.pdf">
+<a href="https://github.com/user-attachments/files/17795931/Protipo04_OscarPerez.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"  alt="PDF" width="30"/>
 </a>
 
@@ -104,9 +103,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ### Resultados
 
-![Cámara principal](https://github.com/user-attachments/assets/d25720d4-2562-42ad-8bc2-56d57ee38f69)
+![Cámara principal](https://github.com/user-attachments/assets/94f96279-1eed-44dc-87e8-569c7cd16b8d)
 
-![Código y juego](https://github.com/user-attachments/assets/0e381732-8ee5-49f8-a419-87d71683f51b)
+![Código y juego](https://github.com/user-attachments/assets/83a4e8f3-4962-4d62-94e4-14e6a9f779f3)
 
 
 #### Link del proyecto
@@ -116,7 +115,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 #### Evidencia de autoria
-<a href="https://github.com/user-attachments/files/17795864/Protipo05_OscarPerez.pdf">
+<a href="https://github.com/user-attachments/files/17795941/Protipo05_OscarPerez.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"  alt="PDF" width="30"/>
 </a>
 
